@@ -364,9 +364,12 @@ public class Login extends AppCompatActivity implements LoaderCallbacks<Cursor> 
             showProgress(false);
         }
     }
+
+
 }
 
-public final class UserDB {
+
+/*public final class UserDB {
     private UserDB () {
 
     }
@@ -385,4 +388,4 @@ public final class UserDB {
                 COLUMN_RESUME_ADDR + " INTEGER" + ")";
     }
 }
-
+*/
