@@ -13,3 +13,4 @@ Idea: bjdatabases
   - employers scan QR code on applicant's phone to receive their resume
 
 Wireframe
+![Alt text](Application1/bitcamp2018_app1.jpg?raw=true "Title")
